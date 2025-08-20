@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: serif;
+  background: white;
+  color: black;
+}
+code {
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+main {
+  margin: auto;
+  padding: 1rem;
+}
+.avi {
+  border-radius: 100%;
+}
+
